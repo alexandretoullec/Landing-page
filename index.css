@@ -47,7 +47,7 @@ nav{
 
 
 nav a {
-    
+    cursor: pointer;
     display: block;
     color: black;
     text-align: center;
